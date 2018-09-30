@@ -1,8 +1,10 @@
 ---
 title: Bean的注入方式
-date: 2018-09-12 18:37:23
 categories: spring
-tags: [spring]
+tags:
+  - spring
+abbrlink: c4090bb
+date: 2018-09-12 18:37:23
 ---
 
 # Bean的注入方式

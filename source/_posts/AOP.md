@@ -1,8 +1,12 @@
 ---
 title: AOP
-date: 2018-09-13 15:02:17
 categories: spring
-tags: [spring, aop, 通知]
+tags:
+  - spring
+  - aop
+  - 通知
+abbrlink: 92933cdb
+date: 2018-09-13 15:02:17
 ---
 
 # AOP

@@ -1,8 +1,11 @@
 ---
 title: Bean的生命周期
-date: 2018-09-12 14:29:22
 categories: spring
-tags: [spring,生命周期]
+tags:
+  - spring
+  - 生命周期
+abbrlink: 48c92662
+date: 2018-09-12 14:29:22
 ---
 
 # Bean的生命周期
